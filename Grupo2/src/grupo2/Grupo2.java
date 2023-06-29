@@ -5,7 +5,7 @@
 package grupo2;
 
 /**
- *
+ * hola 
  * @author UTN
  */
 public class Grupo2 {
